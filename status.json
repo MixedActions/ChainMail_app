@@ -1,0 +1,14 @@
+{
+    "status":[
+    {
+    "mailCompDoor": true,
+    "packageCompDoor": false,
+    "mailIR": false,
+    "packageIR1": false,
+    "packageIR2": false,
+    "packageIR3": true,
+    "mailLock": false,
+    "packageLock": false
+    }
+ ]
+}
